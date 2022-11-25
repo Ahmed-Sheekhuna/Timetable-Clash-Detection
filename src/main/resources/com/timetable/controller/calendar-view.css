@@ -1,0 +1,15 @@
+.time-slot {
+    -fx-background-color: black, white;
+    -fx-background-insets: 0, 1 1 0 0;
+    -fx-text-fill: black;
+}
+
+/*.time-slot:selected {*/
+/*    -fx-background-color: honeydew;*/
+/*}*/
+
+.time-slot-1 {
+    -fx-background-color: black, #34568B;
+    -fx-text-fill: white;
+    -fx-background-insets: 0, 1 1 0 0;
+}
